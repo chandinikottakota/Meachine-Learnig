@@ -1,0 +1,23 @@
+.visualization-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.accuracy {
+  margin-top: -50px;
+  color:red;
+}
+
+  .head {
+    margin-left:200px; /* Adjust the margin value as needed */
+  }
+
+
+.graph-container {
+  width: 80%;
+  max-width: 800px;
+  margin: 0 auto;
+}
